@@ -1,2 +1,1 @@
-# classification_neutrinos
-Identification of corrupted signals for the Neutrinos-Angra Experiment.
+# Identification and Classification of Corrupted Signals for the Neutrinos Angra Experiment
